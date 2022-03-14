@@ -1,0 +1,16 @@
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Ciklo zingsnis\bin\Debug\net5.0\Ciklo zingsnis.exe
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Ciklo zingsnis\bin\Debug\net5.0\Ciklo zingsnis.deps.json
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Ciklo zingsnis\bin\Debug\net5.0\Ciklo zingsnis.runtimeconfig.json
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Ciklo zingsnis\bin\Debug\net5.0\Ciklo zingsnis.runtimeconfig.dev.json
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Ciklo zingsnis\bin\Debug\net5.0\Ciklo zingsnis.dll
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Ciklo zingsnis\bin\Debug\net5.0\ref\Ciklo zingsnis.dll
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Ciklo zingsnis\bin\Debug\net5.0\Ciklo zingsnis.pdb
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Ciklo zingsnis\obj\Debug\net5.0\Ciklo zingsnis.csproj.AssemblyReference.cache
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Ciklo zingsnis\obj\Debug\net5.0\Ciklo zingsnis.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Ciklo zingsnis\obj\Debug\net5.0\Ciklo zingsnis.AssemblyInfoInputs.cache
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Ciklo zingsnis\obj\Debug\net5.0\Ciklo zingsnis.AssemblyInfo.cs
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Ciklo zingsnis\obj\Debug\net5.0\Ciklo zingsnis.csproj.CoreCompileInputs.cache
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Ciklo zingsnis\obj\Debug\net5.0\Ciklo zingsnis.dll
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Ciklo zingsnis\obj\Debug\net5.0\ref\Ciklo zingsnis.dll
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Ciklo zingsnis\obj\Debug\net5.0\Ciklo zingsnis.pdb
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Ciklo zingsnis\obj\Debug\net5.0\Ciklo zingsnis.genruntimeconfig.cache

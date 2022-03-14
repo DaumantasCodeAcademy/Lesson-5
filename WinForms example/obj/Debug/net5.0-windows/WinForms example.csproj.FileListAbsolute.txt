@@ -1,0 +1,18 @@
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\WinForms example\bin\Debug\net5.0-windows\WinForms example.exe
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\WinForms example\bin\Debug\net5.0-windows\WinForms example.deps.json
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\WinForms example\bin\Debug\net5.0-windows\WinForms example.runtimeconfig.json
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\WinForms example\bin\Debug\net5.0-windows\WinForms example.runtimeconfig.dev.json
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\WinForms example\bin\Debug\net5.0-windows\WinForms example.dll
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\WinForms example\bin\Debug\net5.0-windows\ref\WinForms example.dll
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\WinForms example\bin\Debug\net5.0-windows\WinForms example.pdb
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\WinForms example\obj\Debug\net5.0-windows\WinForms example.csproj.AssemblyReference.cache
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\WinForms example\obj\Debug\net5.0-windows\WinForms_example.Form1.resources
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\WinForms example\obj\Debug\net5.0-windows\WinForms example.csproj.GenerateResource.cache
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\WinForms example\obj\Debug\net5.0-windows\WinForms example.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\WinForms example\obj\Debug\net5.0-windows\WinForms example.AssemblyInfoInputs.cache
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\WinForms example\obj\Debug\net5.0-windows\WinForms example.AssemblyInfo.cs
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\WinForms example\obj\Debug\net5.0-windows\WinForms example.csproj.CoreCompileInputs.cache
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\WinForms example\obj\Debug\net5.0-windows\WinForms example.dll
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\WinForms example\obj\Debug\net5.0-windows\ref\WinForms example.dll
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\WinForms example\obj\Debug\net5.0-windows\WinForms example.pdb
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\WinForms example\obj\Debug\net5.0-windows\WinForms example.genruntimeconfig.cache
