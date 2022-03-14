@@ -1,0 +1,17 @@
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Winforms KMI skaiciuokle\bin\Debug\net5.0-windows\Winforms KMI skaiciuokle.exe
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Winforms KMI skaiciuokle\bin\Debug\net5.0-windows\Winforms KMI skaiciuokle.deps.json
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Winforms KMI skaiciuokle\bin\Debug\net5.0-windows\Winforms KMI skaiciuokle.runtimeconfig.json
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Winforms KMI skaiciuokle\bin\Debug\net5.0-windows\Winforms KMI skaiciuokle.runtimeconfig.dev.json
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Winforms KMI skaiciuokle\bin\Debug\net5.0-windows\Winforms KMI skaiciuokle.dll
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Winforms KMI skaiciuokle\bin\Debug\net5.0-windows\ref\Winforms KMI skaiciuokle.dll
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Winforms KMI skaiciuokle\bin\Debug\net5.0-windows\Winforms KMI skaiciuokle.pdb
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Winforms KMI skaiciuokle\obj\Debug\net5.0-windows\Winforms_KMI_skaiciuokle.Form1.resources
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Winforms KMI skaiciuokle\obj\Debug\net5.0-windows\Winforms KMI skaiciuokle.csproj.GenerateResource.cache
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Winforms KMI skaiciuokle\obj\Debug\net5.0-windows\Winforms KMI skaiciuokle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Winforms KMI skaiciuokle\obj\Debug\net5.0-windows\Winforms KMI skaiciuokle.AssemblyInfoInputs.cache
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Winforms KMI skaiciuokle\obj\Debug\net5.0-windows\Winforms KMI skaiciuokle.AssemblyInfo.cs
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Winforms KMI skaiciuokle\obj\Debug\net5.0-windows\Winforms KMI skaiciuokle.csproj.CoreCompileInputs.cache
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Winforms KMI skaiciuokle\obj\Debug\net5.0-windows\Winforms KMI skaiciuokle.dll
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Winforms KMI skaiciuokle\obj\Debug\net5.0-windows\ref\Winforms KMI skaiciuokle.dll
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Winforms KMI skaiciuokle\obj\Debug\net5.0-windows\Winforms KMI skaiciuokle.pdb
+E:\Programming\CodeAcademy\Projektai\5 lesson\5 lesson\Winforms KMI skaiciuokle\obj\Debug\net5.0-windows\Winforms KMI skaiciuokle.genruntimeconfig.cache

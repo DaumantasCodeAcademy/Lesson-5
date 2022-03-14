@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms example", "WinForm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winforms globalus kintamieji", "Winforms globalus kintamieji\Winforms globalus kintamieji.csproj", "{01422950-DA11-4849-8034-AC6CFE48B0AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winforms KMI skaiciuokle", "Winforms KMI skaiciuokle\Winforms KMI skaiciuokle.csproj", "{526E35AC-C37C-4879-A274-96785034117A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{01422950-DA11-4849-8034-AC6CFE48B0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01422950-DA11-4849-8034-AC6CFE48B0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01422950-DA11-4849-8034-AC6CFE48B0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{526E35AC-C37C-4879-A274-96785034117A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526E35AC-C37C-4879-A274-96785034117A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526E35AC-C37C-4879-A274-96785034117A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526E35AC-C37C-4879-A274-96785034117A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

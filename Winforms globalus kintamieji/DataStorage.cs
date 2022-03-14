@@ -8,7 +8,6 @@ namespace Winforms_globalus_kintamieji
 {
     internal class DataStorage
     {
-        private List<List<decimal>> newData;
         private decimal[,] data;
         public int currentElementsCount;
         private int maxElementsCount = 20;
